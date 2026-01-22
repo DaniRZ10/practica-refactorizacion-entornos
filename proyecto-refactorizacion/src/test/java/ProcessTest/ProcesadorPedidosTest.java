@@ -2,6 +2,9 @@ package ProcessTest;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
+
+import Process.ProcesadorPedidos;
+
 import java.util.ArrayList;
 import java.util.Arrays;
  
