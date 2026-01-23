@@ -28,4 +28,5 @@ jobs:
  
     # Forzamos limpieza y compilación desde cero
     - name: Ejecutar Maven Clean y Test
+      working-directory: proyecto-refactorizacion
       run: mvn clean test
